@@ -8,6 +8,7 @@ require (
 	github.com/google/go-containerregistry v0.17.0
 	github.com/kairos-io/kairos-agent/v2 v2.7.13
 	github.com/kairos-io/kairos-sdk v0.0.25
+	github.com/klauspost/compress v1.17.4
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/onsi/ginkgo/v2 v2.15.0
 	github.com/onsi/gomega v1.31.1
@@ -17,6 +18,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.16.0
 	github.com/twpayne/go-vfs v1.7.2
+	github.com/twpayne/go-vfs/v5 v5.0.3
 	github.com/u-root/u-root v0.12.0
 	golang.org/x/exp v0.0.0-20231219180239-dc181d75b848
 )
@@ -85,7 +87,6 @@ require (
 	github.com/joho/godotenv v1.5.1 // indirect
 	github.com/kendru/darwin/go/depgraph v0.0.0-20221105232959-877d6a81060c // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
-	github.com/klauspost/compress v1.17.4 // indirect
 	github.com/lithammer/fuzzysearch v1.1.8 // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
@@ -142,7 +143,7 @@ require (
 	golang.org/x/mod v0.14.0 // indirect
 	golang.org/x/net v0.19.0 // indirect
 	golang.org/x/sync v0.5.0 // indirect
-	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/sys v0.17.0 // indirect
 	golang.org/x/term v0.15.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
